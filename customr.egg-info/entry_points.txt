@@ -1,0 +1,3 @@
+[console_scripts]
+customr = customr.main_calculator:console_run
+

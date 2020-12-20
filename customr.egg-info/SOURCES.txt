@@ -1,0 +1,9 @@
+README.md
+setup.py
+customr/__init__.py
+customr/main_calculator.py
+customr.egg-info/PKG-INFO
+customr.egg-info/SOURCES.txt
+customr.egg-info/dependency_links.txt
+customr.egg-info/entry_points.txt
+customr.egg-info/top_level.txt

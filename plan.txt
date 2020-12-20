@@ -1,0 +1,12 @@
+1) Pip зависимости
+2) Добавить agrparse
+3) Добавить файл setup.py для локальной установки
+4) Собрать дистрибутив
+5) Залить на гитхаб
+
+pip install calc
+
+from calc.core import calculate
+
+calculate('')
+
